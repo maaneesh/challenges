@@ -121,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738365104472</updated>
       <workItem from="1738365105496" duration="3533000" />
-      <workItem from="1738428706930" duration="666000" />
+      <workItem from="1738428706930" duration="6376000" />
     </task>
     <servers />
   </component>
@@ -129,7 +129,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Challenges$Challenges.coverage" NAME="Challenges Coverage Results" MODIFIED="1738429435341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Challenges$Challenges.coverage" NAME="Challenges Coverage Results" MODIFIED="1738526614107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Challenges$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1738428957919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
